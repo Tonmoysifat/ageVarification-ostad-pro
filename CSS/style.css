@@ -1,32 +1,25 @@
-.navbar-low-opacity  {
-    --bs-bg-opacity: 0;
-    /* background: none !important; */
+.navbar-low-opacity {
+  --bs-bg-opacity: 0;
 }
-.navbar-high-opacity  {
-    --bs-bg-opacity: 0.4;
+.navbar-high-opacity {
+  --bs-bg-opacity: 0.4;
 }
-.heru-h1-tag{
-    /* font-size: 50px; */
-    color: #b40084c4;
+.heru-h1-tag {
+  color: #b40084c4;
 }
-#hero-banner .container{
-    margin-top: 80px;
+#hero-banner .container {
+  margin-top: 80px;
 }
-.card{
-    width: 100% !important;
+.card {
+  width: 100% !important;
 }
-@media (min-width: 992px){
-    /* .navbar  {
-        --bs-bg-opacity: 0;
-    } */
-.navbar-expand-lg .navbar-nav .nav-link {
+@media (min-width: 992px) {
+  .navbar-expand-lg .navbar-nav .nav-link {
     padding-right: 30px;
     padding-left: 30px;
-}
-.blockquote-footer{
-    /* margin-right: 300px; */
-}
-#hero-banner form{
+  }
+
+  #hero-banner form {
     margin-right: 31px;
-}
+  }
 }
